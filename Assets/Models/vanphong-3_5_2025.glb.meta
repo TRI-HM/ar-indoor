@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: ff02584027c0e4f4ca7f6f019c21715f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies: []
+  reportItems:
+  - type: 0
+    code: 32
+    messages:
+    - 89
+  - type: 0
+    code: 32
+    messages:
+    - 113
+  - type: 0
+    code: 32
+    messages:
+    - 143
+  - type: 0
+    code: 32
+    messages:
+    - 185
+  - type: 0
+    code: 32
+    messages:
+    - 207
+  - type: 0
+    code: 32
+    messages:
+    - 1
+  - type: 0
+    code: 32
+    messages:
+    - 3
+  - type: 0
+    code: 32
+    messages:
+    - 5
+  - type: 0
+    code: 32
+    messages:
+    - 7
+  - type: 0
+    code: 32
+    messages:
+    - 9
+  - type: 0
+    code: 32
+    messages:
+    - 11
+  - type: 0
+    code: 32
+    messages:
+    - 13
+  - type: 0
+    code: 32
+    messages:
+    - 15
+  - type: 0
+    code: 32
+    messages:
+    - 17
+  - type: 0
+    code: 32
+    messages:
+    - 19
+  - type: 0
+    code: 32
+    messages:
+    - 21
+  - type: 0
+    code: 32
+    messages:
+    - 23
+  - type: 0
+    code: 32
+    messages:
+    - 25
+  - type: 0
+    code: 32
+    messages:
+    - 27
+  - type: 0
+    code: 32
+    messages:
+    - 29
+  - type: 0
+    code: 32
+    messages:
+    - 31
+  - type: 0
+    code: 32
+    messages:
+    - 33
+  - type: 0
+    code: 32
+    messages:
+    - 35
+  - type: 0
+    code: 32
+    messages:
+    - 37
+  - type: 0
+    code: 32
+    messages:
+    - 39
+  - type: 0
+    code: 32
+    messages:
+    - 41
+  - type: 0
+    code: 32
+    messages:
+    - 43
+  - type: 0
+    code: 32
+    messages:
+    - 45
+  - type: 0
+    code: 32
+    messages:
+    - 47
+  - type: 0
+    code: 32
+    messages:
+    - 49
+  - type: 0
+    code: 32
+    messages:
+    - 51
+  - type: 0
+    code: 32
+    messages:
+    - 53
+  - type: 0
+    code: 32
+    messages:
+    - 55
+  - type: 0
+    code: 32
+    messages:
+    - 57
+  - type: 0
+    code: 32
+    messages:
+    - 59
+  - type: 0
+    code: 32
+    messages:
+    - 61
+  - type: 0
+    code: 32
+    messages:
+    - 63
+  - type: 0
+    code: 32
+    messages:
+    - 65
+  - type: 0
+    code: 32
+    messages:
+    - 67
+  - type: 0
+    code: 32
+    messages:
+    - 69
+  - type: 0
+    code: 32
+    messages:
+    - 71
+  - type: 0
+    code: 32
+    messages:
+    - 73
+  - type: 0
+    code: 32
+    messages:
+    - 75
+  - type: 0
+    code: 32
+    messages:
+    - 77
+  - type: 0
+    code: 32
+    messages:
+    - 79
+  - type: 0
+    code: 32
+    messages:
+    - 81
+  - type: 0
+    code: 32
+    messages:
+    - 83
+  - type: 0
+    code: 32
+    messages:
+    - 85
+  - type: 0
+    code: 32
+    messages:
+    - 87
+  - type: 0
+    code: 32
+    messages:
+    - 91
+  - type: 0
+    code: 32
+    messages:
+    - 93
+  - type: 0
+    code: 32
+    messages:
+    - 95
+  - type: 0
+    code: 32
+    messages:
+    - 97
+  - type: 0
+    code: 32
+    messages:
+    - 99
+  - type: 0
+    code: 32
+    messages:
+    - 101
+  - type: 0
+    code: 32
+    messages:
+    - 103
+  - type: 0
+    code: 32
+    messages:
+    - 105
+  - type: 0
+    code: 32
+    messages:
+    - 107
+  - type: 0
+    code: 32
+    messages:
+    - 109
+  - type: 0
+    code: 32
+    messages:
+    - 111
+  - type: 0
+    code: 32
+    messages:
+    - 115
+  - type: 0
+    code: 32
+    messages:
+    - 117
+  - type: 0
+    code: 32
+    messages:
+    - 119
+  - type: 0
+    code: 32
+    messages:
+    - 121
+  - type: 0
+    code: 32
+    messages:
+    - 123
+  - type: 0
+    code: 32
+    messages:
+    - 125
+  - type: 0
+    code: 32
+    messages:
+    - 127
+  - type: 0
+    code: 32
+    messages:
+    - 129
+  - type: 0
+    code: 32
+    messages:
+    - 131
+  - type: 0
+    code: 32
+    messages:
+    - 133
+  - type: 0
+    code: 32
+    messages:
+    - 135
+  - type: 0
+    code: 32
+    messages:
+    - 137
+  - type: 0
+    code: 32
+    messages:
+    - 139
+  - type: 0
+    code: 32
+    messages:
+    - 141
+  - type: 0
+    code: 32
+    messages:
+    - 145
+  - type: 0
+    code: 32
+    messages:
+    - 147
+  - type: 0
+    code: 32
+    messages:
+    - 149
+  - type: 0
+    code: 32
+    messages:
+    - 151
+  - type: 0
+    code: 32
+    messages:
+    - 153
+  - type: 0
+    code: 32
+    messages:
+    - 155
+  - type: 0
+    code: 32
+    messages:
+    - 157
+  - type: 0
+    code: 32
+    messages:
+    - 159
+  - type: 0
+    code: 32
+    messages:
+    - 161
+  - type: 0
+    code: 32
+    messages:
+    - 163
+  - type: 0
+    code: 32
+    messages:
+    - 165
+  - type: 0
+    code: 32
+    messages:
+    - 167
+  - type: 0
+    code: 32
+    messages:
+    - 169
+  - type: 0
+    code: 32
+    messages:
+    - 171
+  - type: 0
+    code: 32
+    messages:
+    - 173
+  - type: 0
+    code: 32
+    messages:
+    - 175
+  - type: 0
+    code: 32
+    messages:
+    - 177
+  - type: 0
+    code: 32
+    messages:
+    - 179
+  - type: 0
+    code: 32
+    messages:
+    - 181
+  - type: 0
+    code: 32
+    messages:
+    - 183
+  - type: 0
+    code: 32
+    messages:
+    - 187
+  - type: 0
+    code: 32
+    messages:
+    - 189
+  - type: 0
+    code: 32
+    messages:
+    - 191
+  - type: 0
+    code: 32
+    messages:
+    - 193
+  - type: 0
+    code: 32
+    messages:
+    - 195
+  - type: 0
+    code: 32
+    messages:
+    - 197
+  - type: 0
+    code: 32
+    messages:
+    - 199
+  - type: 0
+    code: 32
+    messages:
+    - 201
+  - type: 0
+    code: 32
+    messages:
+    - 203
+  - type: 0
+    code: 32
+    messages:
+    - 205
+  - type: 0
+    code: 32
+    messages:
+    - 209
+  - type: 0
+    code: 32
+    messages:
+    - 211
+  - type: 0
+    code: 32
+    messages:
+    - 213
+  - type: 0
+    code: 32
+    messages:
+    - 215
+  - type: 0
+    code: 32
+    messages:
+    - 218
+  - type: 0
+    code: 32
+    messages:
+    - 220
+  - type: 0
+    code: 32
+    messages:
+    - 223
+  - type: 0
+    code: 32
+    messages:
+    - 225
+  - type: 0
+    code: 32
+    messages:
+    - 228
+  - type: 0
+    code: 32
+    messages:
+    - 230
+  - type: 0
+    code: 32
+    messages:
+    - 232
+  - type: 0
+    code: 32
+    messages:
+    - 234
+  - type: 0
+    code: 32
+    messages:
+    - 236
+  - type: 0
+    code: 32
+    messages:
+    - 238
