@@ -12,35 +12,20 @@ public class TVController : MonoBehaviour
     public TMP_Text buttonText;
     void Start()
     {
-        playButton.onClick.AddListener(PlayVideo);
+        playButton.onClick.AddListener(ControlVideo);
     }
 
-    public void PlayVideo()
+    public void ControlVideo()
     {
         if (videoPlayer.isPlaying)
         {
-            PauseVideo();
-            UpdateButtonText();
+            videoPlayer.Pause();
+            buttonText.text = "Play";
         }
         else
         {
             videoPlayer.Play();
-            UpdateButtonText();
+            buttonText.text = "Pause";
         }
-    }
-
-    public void PauseVideo()
-    {
-        videoPlayer.Pause();
-    }
-
-    public void StopVideo()
-    {
-        videoPlayer.Stop();
-    }
-
-    void UpdateButtonText()
-    {
-        buttonText.text = videoPlayer.isPlaying ? "Pause" : "Play";
     }
 }
